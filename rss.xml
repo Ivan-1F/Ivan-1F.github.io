@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Ivan's blog Blog</title>
+        <link>https://ivan1f.com/</link>
+        <description>Ivan's blog Blog</description>
+        <lastBuildDate>Sun, 17 Apr 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[bundleOriginInSchematic 解析]]></title>
+            <link>https://ivan1f.com/bundle-origin-in-schematic-explain</link>
+            <guid>bundle-origin-in-schematic-explain</guid>
+            <pubDate>Sun, 17 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[在 TweakerPlus v1.0.0 中加入了规则 bundleOriginInSchematic]]></description>
+            <content:encoded><![CDATA[<p>在 TweakerPlus v1.0.0 中加入了规则 <code>bundleOriginInSchematic</code></p><blockquote><p>在保存原理图时将原点信息打包入文件</p><p>在加载原理图时，若文件中含有原点信息，则将放置移动至原点（加载后使用 '创建放置' 按钮仍会将放置创建在玩家处）</p><p>原理图浏览器右侧面板中会追加显示原点信息</p></blockquote>]]></content:encoded>
+            <category>minecraft</category>
+            <category>tweakerplus</category>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"\u6700\u65b0\u65e5\u5fd7","items":[{"title":"bundleOriginInSchematic \u89e3\u6790","permalink":"/bundle-origin-in-schematic-explain"}]}')}}]);

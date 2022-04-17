@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[559],{6041:function(e){e.exports=JSON.parse('{"allTagsPath":"/tags","name":"tweakerplus","count":1,"permalink":"/tags/tweakerplus"}')}}]);

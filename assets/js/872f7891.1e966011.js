@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[893],{888:function(a){a.exports=JSON.parse('{"allTagsPath":"/tags","name":"minecraft","count":1,"permalink":"/tags/minecraft"}')}}]);

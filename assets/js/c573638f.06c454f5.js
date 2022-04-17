@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[964],{8866:function(a){a.exports=JSON.parse('{"minecraft":{"allTagsPath":"/tags","name":"minecraft","count":1,"permalink":"/tags/minecraft"},"tweakerplus":{"allTagsPath":"/tags","name":"tweakerplus","count":1,"permalink":"/tags/tweakerplus"}}')}}]);
